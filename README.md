@@ -1,8 +1,8 @@
 Lumen Helpers
 ==========
-![php-badge](https://img.shields.io/packagist/php-v/albertcht/lumen-helpers.svg)
-[![packagist-badge](https://img.shields.io/packagist/v/albertcht/lumen-helpers.svg)](https://packagist.org/packages/albertcht/lumen-helpers)
-[![Total Downloads](https://poser.pugx.org/albertcht/lumen-helpers/downloads)](https://packagist.org/packages/albertcht/lumen-helpers)
+![php-badge](https://img.shields.io/packagist/php-v/jey/lumen-helpers.svg)
+[![packagist-badge](https://img.shields.io/packagist/jey/lumen-helpers.svg)](https://packagist.org/packages/albertcht/lumen-helpers)
+[![Total Downloads](https://poser.pugx.org/jey/lumen-helpers/downloads)](https://packagist.org/packages/albertcht/lumen-helpers)
 
 
 ## Description
@@ -16,7 +16,7 @@ It can be used for improving implementation compatibility, assuming that you are
 If composer is used, it can be introduced by adding the following description.
 
 ```
-composer require albertcht/lumen-helpers
+composer require jey/lumen-helpers
 ```
 
 ## How to use
