@@ -1,8 +1,8 @@
 Lumen Helpers
 ==========
 ![php-badge](https://img.shields.io/packagist/php-v/jey/lumen-helpers.svg)
-[![packagist-badge](https://img.shields.io/packagist/jey/lumen-helpers.svg)](https://packagist.org/packages/albertcht/lumen-helpers)
-[![Total Downloads](https://poser.pugx.org/jey/lumen-helpers/downloads)](https://packagist.org/packages/albertcht/lumen-helpers)
+[![packagist-badge](https://img.shields.io/packagist/jey/lumen-helpers.svg)](https://packagist.org/packages/jey/lumen-helpers)
+[![Total Downloads](https://poser.pugx.org/jey/lumen-helpers/downloads)](https://packagist.org/packages/jey/lumen-helpers)
 
 
 ## Description
