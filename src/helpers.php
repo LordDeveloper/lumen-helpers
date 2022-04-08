@@ -437,3 +437,11 @@ if (! function_exists('request')) {
         return is_null($value) ? value($default) : $value;
     }
 }
+
+if(! function_exists('now')) {
+
+    function now($tz = null): Carbon
+    {
+        return Carbon::now($tz);
+    }
+}
